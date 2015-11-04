@@ -13,7 +13,6 @@
 		047C392A1BE9BB640039359E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047C39291BE9BB640039359E /* Images.xcassets */; };
 		047C392D1BE9BB640039359E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 047C392B1BE9BB640039359E /* LaunchScreen.xib */; };
 		047C39391BE9BB640039359E /* git_demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C39381BE9BB640039359E /* git_demoTests.m */; };
-		047C39441BE9BD590039359E /* new.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C39431BE9BD590039359E /* new.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +38,6 @@
 		047C39321BE9BB640039359E /* git demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "git demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		047C39371BE9BB640039359E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047C39381BE9BB640039359E /* git_demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = git_demoTests.m; sourceTree = "<group>"; };
-		047C39431BE9BD590039359E /* new.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = new.m; sourceTree = "<group>"; };
 		047C39451BE9BFCB0039359E /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
 		047C39481BE9C34E0039359E /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,7 +84,6 @@
 				047C39201BE9BB640039359E /* AppDelegate.h */,
 				047C39211BE9BB640039359E /* AppDelegate.m */,
 				047C39231BE9BB640039359E /* ViewController.h */,
-				047C39431BE9BD590039359E /* new.m */,
 				047C39451BE9BFCB0039359E /* TableViewCell.h */,
 				047C39481BE9C34E0039359E /* Header.h */,
 				047C39261BE9BB640039359E /* Main.storyboard */,
@@ -224,7 +221,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				047C39221BE9BB640039359E /* AppDelegate.m in Sources */,
-				047C39441BE9BD590039359E /* new.m in Sources */,
 				047C391F1BE9BB640039359E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
