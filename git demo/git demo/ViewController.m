@@ -21,7 +21,8 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    //修改了工程
+    NSLog(@"");
 }
 
 @end
